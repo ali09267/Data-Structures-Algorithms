@@ -8,15 +8,6 @@ This repository contains implementations of common **Data Structures** and **Alg
 
 - **String Problems** – Solutions and exercises related to string manipulation, pattern matching, and text algorithms.
 - **Array Problems** – Problems involving arrays, including searching, sorting, and optimizations.
-- **Trees** – Includes Binary Trees, Binary Search Trees, tree traversals, and related algorithms.
-- **Linked Lists** – Contains implementations of Singly and Doubly Linked Lists, their operations, and common interview problems.
-- **Graphs** – Graph algorithms such as BFS, DFS, Dijkstra's algorithm, and various graph representations.
-- **Recursion** – Solutions to problems demonstrating recursion concepts.
-- **Backtracking** – Problems that involve backtracking techniques, including N-Queens, permutations, and combinations.
-- **Stacks** – Implementations of stacks and associated problems like balanced parentheses and finding the next greater element.
-- **Queues** – Problems involving Queues and Priority Queues, circular queues, and related challenges.
-- **Dynamic Programming (DP)** – DP problems, including techniques like memoization and tabulation, along with classic problems like the Knapsack problem and Longest Common Subsequence (LCS).
-
 ---
 
 ## ⚡ Features
