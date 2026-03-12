@@ -33,3 +33,28 @@ public class StrToInt {
         System.out.println(strToInt("12bishes and trump "));
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+//<?php
+//
+// php code//
+//
+// ?>
+
+
+
+//useEffect(()=>{
+
+//code
+
+// },[])//dependency array
