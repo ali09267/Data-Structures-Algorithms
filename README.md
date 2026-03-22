@@ -8,6 +8,7 @@ This repository contains implementations of common **Data Structures** and **Alg
 
 - **String Problems** – Solutions and exercises related to string manipulation, pattern matching, and text algorithms.
 - **Array Problems** – Problems involving arrays, including searching, sorting, and optimizations.
+- **Binary Trees Problems** - Problems involving Binary trees, including basic operations, searching, and application of different algorithms.
 ---
 
 ## ⚡ Features
@@ -49,13 +50,6 @@ This repository contains implementations of common **Data Structures** and **Alg
 
 ---
 
-## 📂 Folder Structure
-
-- **String Problems** – Solutions and exercises related to string manipulation, pattern matching, and text algorithms.
-- **Array Problems** – Array-based problems including searching, sorting, and optimizations.
-
----
-
 ## ⚡ Features
 
 - Organized by **problem category** for easy navigation.
@@ -74,7 +68,7 @@ cd Data-Structures-Algorithms
 
 Open the folder corresponding to the problem type you want to practice.
 
-Run the code using your preferred IDE or compiler depending on the language used.
+Run the code using your preferred IDE or compiler, depending on the language used.
 
 📚 Contribution
 
