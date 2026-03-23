@@ -42,18 +42,18 @@ public class Traversal {
     }
 
     static void levelOrderTraversal(Node root){
-        Queue<Node>queue=new LinkedList<>();
-        queue.add(root);
+        Queue<Node>queue=new LinkedList<>();//initialize a queue
+        queue.add(root);//add root at first go
 
-        while(queue.size()>0){
+        while(queue.size()>0){//if queue is not empty (traversal of tree is remaining)
 
-            Node curr=queue.peek();
-            queue.remove();
-            System.out.print(curr.data+" ");
-            if(curr.left!=null) {
+            Node curr=queue.peek();//store top most element of Queue(first element of a level)
+            queue.remove();//remove it (successfully traversed it)
+            System.out.print(curr.data+" ");//print that traversed node
+            if(curr.left!=null) {//if it have a left child store that (that is next to be traversed)
                 queue.add(curr.left);
             }
-            if(curr.right!=null){
+            if(curr.right!=null){//if it have a right child store that in Queue that is next to be traversed
                 queue.add(curr.right);
             }
         }

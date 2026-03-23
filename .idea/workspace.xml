@@ -4,7 +4,46 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="38fd2df9-b0e0-4dad-bdaa-a64d7702958a" name="Changes" comment="" />
+    <list default="true" id="38fd2df9-b0e0-4dad-bdaa-a64d7702958a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTrees/TopView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data-Structures-Algorithms" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA Series/LinkedList_Easy_Series/LinkedList1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA Series/LinkedList_Easy_Series/LinkedListMed.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA Series/LinkedList_Easy_Series/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA Series/LinkedList_Easy_Series/Node1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA Series/LinkedList_Hard_Series/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA Series/LinkedList_Med_Series/Flattening.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA Series/LinkedList_Med_Series/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA Series/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA Series/Queues_Easy_Series/ArrayQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA Series/Queues_Easy_Series/Queue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA Series/Stack_med_series/LinkStack$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA Series/Stack_med_series/LinkStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA Series/Stack_med_series/LinkStack1$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA Series/Stack_med_series/LinkStack1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA Series/Stack_med_series/LinkStack2$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA Series/Stack_med_series/LinkStack2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA Series/Stack_med_series/Stack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA Series/Stack_med_series/Stack1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA Series/Stack_med_series/Stack2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA Series/Stacks_Easy_Series/ArrayStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA Series/Stacks_Easy_Series/LinkStack$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA Series/Stacks_Easy_Series/LinkStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA Series/Stacks_Easy_Series/Stack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA Series/Stacks_Easy_Series/Stack1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA Series/Stacks_Easy_Series/Stack_By_Two_Queues.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA Series/Two_Pointer_Approach/MoveZerosToEnd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA Series/Two_Pointer_Approach/ReverseString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA Series/Two_Pointer_Approach/SlidingWindow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA Series/Two_Pointer_Approach/Two_Sum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA Series/Two_Pointer_Approach/removeDuplicate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BinaryTrees/Traversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BinaryTrees/Traversal.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -90,6 +129,7 @@
     "Application.SubArrayEqualsK.executor": "Run",
     "Application.SubTree.executor": "Run",
     "Application.Sum.executor": "Run",
+    "Application.TopView.executor": "Run",
     "Application.TrapRainWater.executor": "Run",
     "Application.Traversal.executor": "Run",
     "Application.TwoSum.executor": "Run",
@@ -100,12 +140,32 @@
     "Application.removeDuplicate.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/N TECH/Desktop/DSA Series",
     "onboarding.tips.debug.path": "C:/Users/N TECH/Desktop/DSA Series/src/Main.java",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="DSA Series" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="DSA Series" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
