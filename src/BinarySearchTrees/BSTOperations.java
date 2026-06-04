@@ -1,5 +1,5 @@
 package BinarySearchTrees;
-public class BuildBST {
+public class BSTOperations {
     private static Node build(Node root,int val){
         if(root==null){
             return new Node(val);//actual placement of that value

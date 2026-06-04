@@ -5,9 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="38fd2df9-b0e0-4dad-bdaa-a64d7702958a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/BinaryTrees/BottomView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarySearchTrees/MinDistance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/String_Problems/GroupAnagrams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Problems/GroupAnagrams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA Series/String_Problems/FreqCount.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA Series/String_Problems/FreqCount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BinarySearchTrees/BSTOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BinarySearchTrees/BSTOperations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BinarySearchTrees/IsValidBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BinarySearchTrees/IsValidBST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BinarySearchTrees/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BinarySearchTrees/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BinarySearchTrees/SortedArrayToBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BinarySearchTrees/SortedArrayToBST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BinaryTrees/FlattenBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BinaryTrees/FlattenBinaryTree.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +34,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -45,10 +55,15 @@
     "Application.Anagram.executor": "Run",
     "Application.ArrayQueue.executor": "Run",
     "Application.ArrayStack.executor": "Run",
+    "Application.BSTOperations.executor": "Run",
     "Application.BestTimeToStock.executor": "Run",
+    "Application.BinaryTreePaths.executor": "Run",
     "Application.BottomView.executor": "Run",
+    "Application.BuildBST.executor": "Run",
+    "Application.BuiltTree.executor": "Run",
     "Application.Compression.executor": "Run",
     "Application.ConsecutiveOnes.executor": "Run",
+    "Application.Deserialize.executor": "Run",
     "Application.Diameter.executor": "Run",
     "Application.Duplicates.executor": "Run",
     "Application.FirstNonRepeating.executor": "Run",
@@ -57,7 +72,10 @@
     "Application.GroupAnagrams.executor": "Run",
     "Application.Height.executor": "Run",
     "Application.Insertion_sort.executor": "Run",
+    "Application.InvertBinaryTree.executor": "Run",
     "Application.IsPalindrome.executor": "Run",
+    "Application.IsValidBST.executor": "Run",
+    "Application.KLevel.executor": "Run",
     "Application.Kth_Largest.executor": "Run",
     "Application.LinkStack.executor": "Run",
     "Application.LinkStack1.executor": "Run",
@@ -66,12 +84,16 @@
     "Application.LinkedListMed.executor": "Run",
     "Application.LongestPalindrom.executor": "Run",
     "Application.LostElement.executor": "Run",
+    "Application.LowestCommonAncestor.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Majority.executor": "Run",
     "Application.MaxSubArray.executor": "Run",
     "Application.MaxSubString.executor": "Run",
+    "Application.MaxWidth.executor": "Run",
     "Application.Max_sub_array.executor": "Run",
     "Application.MergeSorting.executor": "Run",
+    "Application.MinDistance.executor": "Run",
+    "Application.Morris.executor": "Run",
     "Application.MostFrequencies.executor": "Run",
     "Application.MoveZerosToEnd.executor": "Run",
     "Application.MovingZeros.executor": "Run",
@@ -86,15 +108,18 @@
     "Application.Rotate.executor": "Run",
     "Application.Same.executor": "Run",
     "Application.SecondLargest.executor": "Run",
+    "Application.Serialize_and_Deserialize.executor": "Run",
     "Application.Size.executor": "Run",
     "Application.SlidingWindow.executor": "Run",
     "Application.Sort012.executor": "Run",
+    "Application.SortedArrayToBST.executor": "Run",
     "Application.StrToInt.executor": "Run",
     "Application.Strassens.executor": "Run",
     "Application.SubArray.executor": "Run",
     "Application.SubArrayEqualsK.executor": "Run",
     "Application.SubTree.executor": "Run",
     "Application.Sum.executor": "Run",
+    "Application.SumTree.executor": "Run",
     "Application.TopView.executor": "Run",
     "Application.TrapRainWater.executor": "Run",
     "Application.Traversal.executor": "Run",
@@ -117,6 +142,17 @@
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\N TECH\Desktop\DSA Series\Frontend-Projects" />
+      <recent name="C:\Users\N TECH\Desktop\DSA Series" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="node;" />
+    </option>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -127,5 +163,16 @@
       <updated>1747922440724</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BinarySearchTrees/BSTOperations.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

@@ -1,11 +1,11 @@
 
-  public class TreeNode {
+   class Node {
       int val;
-      TreeNode left;
-      TreeNode right;
-      TreeNode() {}
-      TreeNode(int val) { this.val = val; }
-      TreeNode(int val, TreeNode left, TreeNode right) {
+      Node left;
+      Node right;
+      Node() {}
+    Node(int val) { this.val = val; }
+      Node(int val, Node left, Node right) {
           this.val = val;
           this.left = left;
           this.right = right;
@@ -13,8 +13,8 @@
   }
 
 class Solution {
-    TreeNode nextRight;
-    public void flatten(TreeNode root) {
+   Node nextRight;
+    public void flatten(Node root) {
         if(root==null){
             return;
         }
