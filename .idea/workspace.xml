@@ -5,16 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="38fd2df9-b0e0-4dad-bdaa-a64d7702958a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/BinarySearchTrees/MinDistance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarySearchTrees/KthSmallestInBST.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA Series/String_Problems/FreqCount.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA Series/String_Problems/FreqCount.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BinarySearchTrees/BSTOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BinarySearchTrees/BSTOperations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BinarySearchTrees/IsValidBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BinarySearchTrees/IsValidBST.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BinarySearchTrees/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BinarySearchTrees/Node.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BinarySearchTrees/SortedArrayToBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BinarySearchTrees/SortedArrayToBST.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BinaryTrees/FlattenBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BinaryTrees/FlattenBinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA Series/BinarySearchTrees/MinDistance.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA Series/BinarySearchTrees/MinDistance.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,6 +69,7 @@
     "Application.IsPalindrome.executor": "Run",
     "Application.IsValidBST.executor": "Run",
     "Application.KLevel.executor": "Run",
+    "Application.KthSmallestInBST.executor": "Run",
     "Application.Kth_Largest.executor": "Run",
     "Application.LinkStack.executor": "Run",
     "Application.LinkStack1.executor": "Run",
